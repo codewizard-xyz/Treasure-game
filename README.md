@@ -1,0 +1,1 @@
+Embark on a thrilling digital adventure! In this JavaScript-powered game, you'll navigate a treacherous landscape, solve puzzles, and overcome obstacles to uncover hidden treasures. Use your wits and logic to find the path to riches and claim your reward!
