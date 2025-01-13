@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+
+table {
+    font-size: 30px;
+    width: 500px;
+}
+
+.score {
+    float: right;
+}
